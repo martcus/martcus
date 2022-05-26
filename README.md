@@ -5,9 +5,9 @@
 
 **Quote of the day**
 
-> *The more code you have, the more places there are for bugs to hide.* - **Rich Skrenta** 
+> *The more code you have, the more places there are for bugs to hide.* - **Rich Skrenta**
 
-[![README.md](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml/badge.svg)](https://github.com/marcolovazzano/marcolovazzano/actions/workflows/readme.yml)
+[![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
 
 <!---
