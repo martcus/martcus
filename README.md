@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The more code you have, the more places there are for bugs to hide.* - **Rich Skrenta**
+> *One accurate measurement is worth more than a thousand expert opinions.* - **Grace Hopper** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
