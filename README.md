@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *One accurate measurement is worth more than a thousand expert opinions.* - **Grace Hopper** 
+> *Computer science research is different from these more traditional disciplines. Philosophically it differs from the physical sciences because it seeks not to discover, explain, or exploit the natural world, but instead to study the properties of machines of human creation.* - **Dennis Ritchie** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
