@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Software engineering is the part of computer science which is too difficult for the computer scientist.* - **Friedrich Bauer** 
+> *Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.* - **Wayne Ratliff** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
