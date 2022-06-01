@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Programming is a little bit like the army. Now that I'm out, it's neat to have had the experience.* - **Wayne Ratliff** 
+> *When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
