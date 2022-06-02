@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *When a task cannot be partitioned because of sequential constraints, the application of more effort has no effect on the schedule. The bearing of a child takes nine months, no matter how many women are assigned.* - **Fred Brooks** 
+> *Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.* - **Joseph Yoder (computer scientist)** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
