@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Sadly, architecture has been undervalued for so long that many engineers regard life with a Big Ball of Mud as normal.* - **Joseph Yoder (computer scientist)** 
+> *The entire history of software engineering is that of the rise in levels of abstraction.* - **Grady Booch** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
