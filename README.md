@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.* - **Fred Brooks** 
+> *It turns out that style matters in programming for the same reason that it matters in writing. It makes for better reading.* - **Douglas Crockford** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
