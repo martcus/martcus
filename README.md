@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *A programming language is low level when its programs require attention to the irrelevant.* - **Alan Perlis** 
+> *The more code you have, the more places there are for bugs to hide.* - **Rich Skrenta** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
