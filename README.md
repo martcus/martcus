@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The more code you have, the more places there are for bugs to hide.* - **Rich Skrenta** 
+> *Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
