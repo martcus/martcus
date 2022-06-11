@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Because of optimism, we usually expect the number of bugs to be smaller than it turns out to be. Therefore testing is usually the most mis-scheduled part of programming.* - **Fred Brooks** 
+> *I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.* - **Gary Kildall** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
