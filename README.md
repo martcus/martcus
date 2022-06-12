@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *I start with drawing the data structures, and I spend a lot of time thinking about them. I also think about what the program has to go through before I start writing code.* - **Gary Kildall** 
+> *Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.* - **Edsger W. Dijkstra** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
