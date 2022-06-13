@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Testing can be a very effective way to show the presence of bugs, but it is hopelessly inadequate for showing their absence.* - **Edsger W. Dijkstra** 
+> *The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.* - **Joshua Bloch** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
