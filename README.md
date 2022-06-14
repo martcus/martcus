@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The cleaner and nicer the program, the faster it's going to run. And if it doesn't, it'll be easy to make it fast.* - **Joshua Bloch** 
+> *Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.* - **L. Peter Deutsch** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
