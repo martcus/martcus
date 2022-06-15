@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.* - **L. Peter Deutsch** 
+> *Anybody who comes to you and says he has a perfect language is either naïve or a salesman.* - **Bjarne Stroustrup** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
