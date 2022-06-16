@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Anybody who comes to you and says he has a perfect language is either naïve or a salesman.* - **Bjarne Stroustrup** 
+> *Programming is at least as difficult as developing a mathematical theory.* - **Daniel T. Barry** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
