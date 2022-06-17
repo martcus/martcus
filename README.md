@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Programming is at least as difficult as developing a mathematical theory.* - **Daniel T. Barry** 
+> *Young man, in mathematics you don't understand things. You just get used to them.* - **John von Neumann** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
