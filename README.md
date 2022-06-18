@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Young man, in mathematics you don't understand things. You just get used to them.* - **John von Neumann** 
+> *When I invented the web, I didn't have to ask anyone's permission.* - **Tim Berners-Lee** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
