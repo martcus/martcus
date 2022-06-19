@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *When I invented the web, I didn't have to ask anyone's permission.* - **Tim Berners-Lee** 
+> *Artificial intelligence is the science of making machines do things that would require intelligence if done by men.* - **Marvin Minsky** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
