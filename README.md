@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Artificial intelligence is the science of making machines do things that would require intelligence if done by men.* - **Marvin Minsky** 
+> *Cool URIs don't change.* - **Tim Berners-Lee** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
