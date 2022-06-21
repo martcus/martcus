@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Cool URIs don't change.* - **Tim Berners-Lee** 
+> *I'm not a great programmer; I'm just a good programmer with great habits.* - **Kent Beck** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
