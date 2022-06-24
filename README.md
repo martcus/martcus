@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Any product that needs a manual to work is broken.* - **Elon Musk** 
+> *Code never lies, comments sometimes do.* - **Ron Jeffries** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
