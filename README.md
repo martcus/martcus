@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Code never lies, comments sometimes do.* - **Ron Jeffries** 
+> *The key to keeping software costs down is to write code that is easily modified.* - **Daniel T. Barry** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
