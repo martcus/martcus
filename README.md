@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The key to keeping software costs down is to write code that is easily modified.* - **Daniel T. Barry** 
+> *Codes are a puzzle. A game, just like any other game.* - **Alan Turing** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
