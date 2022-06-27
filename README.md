@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Codes are a puzzle. A game, just like any other game.* - **Alan Turing** 
+> *Documentation is a love letter that you write to your future self.* - **Damian Conway** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
