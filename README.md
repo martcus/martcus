@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.* - **Chris Sacca** 
+> *Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.* - **Alan Perlis** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
