@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Educators, generals, dieticians, psychologists, and parents program. Armies, students, and some societies are programmed.* - **Alan Perlis** 
+> *When in doubt, use brute force.* - **Ken Thompson** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
