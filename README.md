@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *When in doubt, use brute force.* - **Ken Thompson** 
+> *Any one who considers arithmetical methods of producing random digits is, of course, in a state of sin. For, as has been pointed out several times, there is no such thing as a random number.* - **John von Neumann** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
