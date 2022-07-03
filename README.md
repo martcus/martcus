@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Computer programs are the most intricate, delicately balanced and finely interwoven of all the products of human industry to date.* - **James Gleick** 
+> *Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.* - **Daniel T. Barry** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
