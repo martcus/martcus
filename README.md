@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.* - **Daniel T. Barry** 
+> *Just because you've implemented something doesn't mean you understand it.* - **Brian Cantwell Smith** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
