@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Just because you've implemented something doesn't mean you understand it.* - **Brian Cantwell Smith** 
+> *Even in the games of children there are things to interest the greatest mathematician.* - **Gottfried Wilhelm Leibniz** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
