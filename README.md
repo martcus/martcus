@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Even in the games of children there are things to interest the greatest mathematician.* - **Gottfried Wilhelm Leibniz** 
+> *The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.* - **Mario Fusco** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
