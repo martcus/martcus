@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The code you write makes you a programmer. The code you delete makes you a good one. The code you don't have to write makes you a great one.* - **Mario Fusco** 
+> *Documentation is a love letter that you write to your future self.* - **Damian Conway** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
