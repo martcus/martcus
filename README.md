@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Hofstadter's Law: It always takes longer than you expect, even when you take into account Hofstadter's Law.* - **P. J. Plauger** 
+> *What is simplicity? Simplicity is the shortest path to a solution.* - **Ward Cunningham** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
