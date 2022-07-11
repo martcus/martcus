@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *What is simplicity? Simplicity is the shortest path to a solution.* - **Ward Cunningham** 
+> *Complexity kills. It sucks the life out of developers, it makes products difficult to plan, build and test, it introduces security challenges and it causes end-user and administrator frustration.* - **Ray Ozzie** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
