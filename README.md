@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *One of the greatest joys in computer programming is discovering a new, faster, more efficient algorithm for doing something — particularly if a lot of well-respected people have come up with worse solutions.* - **Danny Hillis** 
+> *Code never lies, comments sometimes do.* - **Ron Jeffries** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
