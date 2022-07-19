@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Science is what we understand well enough to explain to a computer. Art is everything else we do.* - **Donald Knuth** 
+> *Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.* - **Martin Fowler** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
