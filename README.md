@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Often designers do complicated things that improve the capacity on a particular hardware platform when it might actually be cheaper to buy more hardware.* - **Martin Fowler** 
+> *see you in about 30 years.* - **John Milton** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
