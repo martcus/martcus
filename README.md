@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Hardware is the part you can replace. Software is the part you have to keep, because it’s so expensive and nobody understands it any more.* - **Jim Horning** 
+> *Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.* - **Daniel T. Barry** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
