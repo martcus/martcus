@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Any technological or managerial scheme to force documentation can be subverted by unwilling programmers.* - **Daniel T. Barry** 
+> *I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.* - **Tim Berners-Lee** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
