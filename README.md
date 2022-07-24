@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.* - **Tim Berners-Lee** 
+> *Controlling complexity is the essence of computer programming.* - **Brian Kernighan** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
