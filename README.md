@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Controlling complexity is the essence of computer programming.* - **Brian Kernighan** 
+> *A user interface should be so simple that a beginner in an emergency can understand it within 10 seconds.* - **Ted Nelson** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
