@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The fundamental problem with program maintenance is that fixing a defect has a substantial (20-50 percent) chance of introducing another. So the whole process is two steps forward and one step back.* - **Fred Brooks** 
+> *SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.* - **Philip Greenspun** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
