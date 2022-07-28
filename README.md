@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.* - **Philip Greenspun** 
+> *The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.* - **Edsger W. Dijkstra** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
