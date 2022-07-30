@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The cost to repair an error goes up dramatically as project moves towards completion and beyond.* - **Daniel T. Barry** 
+> *I'm doing a free operating system (just a hobby, won't be big and professional like GNU).* - **Linus Torvalds** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
