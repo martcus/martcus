@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *I'm doing a free operating system (just a hobby, won't be big and professional like GNU).* - **Linus Torvalds** 
+> *Software gets slower faster than hardware gets faster.* - **Niklaus Wirth** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
