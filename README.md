@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Having a system architect is the most important single step toward conceptual integrity. After teaching a software engineering laboratory more than 20 times, I came to insist that student teams as small as four people choose a manager and a separate architect.* - **Fred Brooks** 
+> *The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.* - **Terry Winograd** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
