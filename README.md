@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.* - **Terry Winograd** 
+> *The cheapest, fastest, and most reliable components are those that aren’t there.* - **Gordon Bell** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
