@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The cheapest, fastest, and most reliable components are those that aren’t there.* - **Gordon Bell** 
+> *Artificial intelligence is the science of making machines do things that would require intelligence if done by men.* - **Marvin Minsky** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
