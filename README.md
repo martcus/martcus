@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Artificial intelligence is the science of making machines do things that would require intelligence if done by men.* - **Marvin Minsky** 
+> *The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.* - **Robert L. Glass** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
