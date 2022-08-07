@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The best programmers are up to 28 times better than the worst programmers, according to “individual differences” research. Given that their pay is never commensurate, they are the biggest bargains in the software field.* - **Robert L. Glass** 
+> *The main activity of programming is not the origination of new independent programs, but in the integration, modification, and explanation of existing ones.* - **Terry Winograd** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
