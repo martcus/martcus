@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Some problems are so complex that you have to be highly intelligent and well informed just to be undecided about them.* - **Laurence J. Peter** 
+> *As soon as an Analytical Engine exists, it will necessarily guide the future course of science.* - **Charles Babbage** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
