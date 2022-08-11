@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *As soon as an Analytical Engine exists, it will necessarily guide the future course of science.* - **Charles Babbage** 
+> *Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
