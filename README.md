@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.* - **Fred Brooks** 
+> *Much of the essence of building a program is in fact the debugging of the specification.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
