@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Much of the essence of building a program is in fact the debugging of the specification.* - **Fred Brooks** 
+> *Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.* - **Jamie Zawinski** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
