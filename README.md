@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.* - **Jamie Zawinski** 
+> *Then Apple went public toward the end of 1980. All of a sudden, all these people I was working with were millionaires.* - **Andy Hertzfeld** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
