@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Another danger is that commercial pressures of one sort or another will divert the attention of the best thinkers from real innovation to exploitation of the current fad, from prospecting to mining a known lode.* - **Dennis Ritchie** 
+> *The more code you have, the more places there are for bugs to hide.* - **Rich Skrenta** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
