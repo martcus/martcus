@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Because we are uncertain about our scheduling estimates, we often lack the courage to defend them stubbornly against management and customer pressure.* - **Fred Brooks** 
+> *One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
