@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *One must assume that there will be lots of bugs, and plan an orderly procedure for snaking them out.* - **Fred Brooks** 
+> *The best way to know that you have found the last bug is never to find the first bug.* - **Harlan Mills** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
