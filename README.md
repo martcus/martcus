@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The best way to know that you have found the last bug is never to find the first bug.* - **Harlan Mills** 
+> *Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.* - **Danny Hillis** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
