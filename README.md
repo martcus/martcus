@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Computers are the most complex objects we human beings have ever created, but in a fundamental sense they are remarkably simple.* - **Danny Hillis** 
+> *I'm convinced that about half of what separates the successful entrepreneurs from the non-successful ones is pure perseverance. It is so hard.* - **Steve Jobs** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
