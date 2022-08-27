@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Machines as simple as thermostats can be said to have beliefs.* - **John McCarthy (computer scientist)** 
+> *In handling resources, strive to avoid disaster rather than to attain an optimum.* - **Butler Lampson** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
