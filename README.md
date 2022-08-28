@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *In handling resources, strive to avoid disaster rather than to attain an optimum.* - **Butler Lampson** 
+> *There is never enough time to do it right, but there is always enough time to fix it or to do it over.* - **Daniel T. Barry** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
