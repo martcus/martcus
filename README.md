@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *There is never enough time to do it right, but there is always enough time to fix it or to do it over.* - **Daniel T. Barry** 
+> *A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.* - **John Gall (author)** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
