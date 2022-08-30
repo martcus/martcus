@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *A complex system that works is invariably found to have evolved from a simple system that worked. The inverse proposition also appears to be true: A complex system designed from scratch never works and cannot be made to work.* - **John Gall (author)** 
+> *I think the best way to supervise is by personal example and by frequent code reviews.* - **Charles Simonyi** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
