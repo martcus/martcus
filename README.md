@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *I think the best way to supervise is by personal example and by frequent code reviews.* - **Charles Simonyi** 
+> *Simplicity and elegance are unpopular because they require hard work and discipline to achieve and education to be appreciated.* - **Edsger W. Dijkstra** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
