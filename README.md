@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Imagination is more important than knowledge.* - **Albert Einstein** 
+> *C is quirky, flawed, and an enormous success.* - **Dennis Ritchie** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
