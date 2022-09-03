@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *C is quirky, flawed, and an enormous success.* - **Dennis Ritchie** 
+> *Never trust a computer you can’t throw out a window.* - **Steve Wozniak** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
