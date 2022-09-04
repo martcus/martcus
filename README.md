@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Never trust a computer you can’t throw out a window.* - **Steve Wozniak** 
+> *The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.* - **Danny Hillis** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
