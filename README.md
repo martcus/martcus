@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.* - **Danny Hillis** 
+> *Instead of the progression of tens, I have for many years used the simplest progression of all, which proceeds by twos, having found that it is useful for the perfection of the science of numbers.* - **Gottfried Wilhelm Leibniz** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
