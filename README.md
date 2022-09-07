@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Like a financial debt, the technical debt incurs interest payments, which come in the form of the extra effort that we have to do in future development because of the quick and dirty design choice.* - **Martin Fowler** 
+> *To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.* - **John Warnock** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
