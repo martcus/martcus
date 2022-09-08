@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *To be successful, you want to surround yourself with very talented folks whose skills blend very well. That’s the secret of success.* - **John Warnock** 
+> *The best way to know that you have found the last bug is never to find the first bug.* - **Harlan Mills** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
