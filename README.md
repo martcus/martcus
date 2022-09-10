@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.* - **Andy Hunt (author)** 
+> *If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.* - **Martin Fowler** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
