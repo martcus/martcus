@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *If you can get today’s work done today, but you do it in such a way that you can’t possibly get tomorrow’s work done tomorrow, then you lose.* - **Martin Fowler** 
+> *What is simplicity? Simplicity is the shortest path to a solution.* - **Ward Cunningham** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
