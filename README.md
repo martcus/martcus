@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *What is simplicity? Simplicity is the shortest path to a solution.* - **Ward Cunningham** 
+> *A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.* - **Ivan Sutherland** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
