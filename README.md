@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *A display connected to a digital computer gives us a chance to gain familiarity with concepts not realizable in the physical world. It is a looking glass into a mathematical wonderland.* - **Ivan Sutherland** 
+> *When program developers are not territorial about their code and encourage others to look for bugs and potential improvements, progress speeds up dramatically.* - **Gerald Weinberg** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
