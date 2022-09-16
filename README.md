@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Is studying computer science the best way to prepare to be a programmer? No. the best way to prepare is to write programs, and to study great programs that other people have written.* - **Bill Gates** 
+> *A computer shall not waste your time or require you to do more work than is strictly necessary.* - **Jef Raskin** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
