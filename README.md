@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *A computer shall not waste your time or require you to do more work than is strictly necessary.* - **Jef Raskin** 
+> *The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.* - **Ada Lovelace** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
