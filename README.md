@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The Analytical Engine does not occupy common ground with mere 'calculating machines.' It holds a position wholly its own, and the considerations it suggests are more interesting in their nature.* - **Ada Lovelace** 
+> *False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
