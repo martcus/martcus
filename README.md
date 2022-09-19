@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *False scheduling to match the patron's desired date is much more common in our discipline than elsewhere in engineering.* - **Fred Brooks** 
+> *Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.* - **Sean Parent** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
