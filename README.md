@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Good code is short, simple, and symmetrical - the challenge is figuring out how to get there.* - **Sean Parent** 
+> *So much complexity in software comes from trying to make one thing do two things.* - **Ryan Singer** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
