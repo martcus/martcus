@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *So much complexity in software comes from trying to make one thing do two things.* - **Ryan Singer** 
+> *Computer programs are the most complex things that humans make.* - **Douglas Crockford** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
