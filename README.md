@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Computer programs are the most complex things that humans make.* - **Douglas Crockford** 
+> *The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
