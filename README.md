@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The general tendency is to over-design the second system, using all the ideas and frills that were cautiously sidetracked on the first one.* - **Fred Brooks** 
+> *The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.* - **Edsger W. Dijkstra** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
