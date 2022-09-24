@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.* - **Edsger W. Dijkstra** 
+> *The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.* - **Harlan Mills** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
