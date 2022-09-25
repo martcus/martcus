@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.* - **Harlan Mills** 
+> *Programming can be addictive.* - **Bob Carr** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
