@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Programming can be addictive.* - **Bob Carr** 
+> *The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.* - **Terry Winograd** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
