@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The techniques of artificial intelligence are to the mind what bureaucracy is to human social interaction.* - **Terry Winograd** 
+> *I'm interested in creating images that communicate with people.* - **Toru Iwatani** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
