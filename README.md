@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *I'm interested in creating images that communicate with people.* - **Toru Iwatani** 
+> *Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.* - **Pete Cordell** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
