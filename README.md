@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Telling a programmer there's already a library to do X is like telling a songwriter there's already a song about love.* - **Pete Cordell** 
+> *The manager's function is not to make people work, but to make it possible for people to work.* - **Tom DeMarco** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
