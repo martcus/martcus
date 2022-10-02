@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *It's fun to sit at a terminal and let the code flow. It sounds strange, but it just comes out my brain; once I'm started, I don't have to think about it.* - **Gary Kildall** 
+> *Most errors are introduced during requirements specification!* - **Daniel T. Barry** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
