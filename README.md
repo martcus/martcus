@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Most errors are introduced during requirements specification!* - **Daniel T. Barry** 
+> *Be humble, communicate clearly, and respect others. It costs nothing to be kind, but the impact is priceless.* - **Addy Osmani** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
