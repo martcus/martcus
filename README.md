@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Controlling complexity is the essence of computer programming.* - **Brian Kernighan** 
+> *I'm interested in creating images that communicate with people.* - **Toru Iwatani** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
