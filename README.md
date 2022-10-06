@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *I'm interested in creating images that communicate with people.* - **Toru Iwatani** 
+> *If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.* - **Edsger W. Dijkstra** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
