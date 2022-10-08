@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The hardest part of design is keeping features out.* - **Don Norman** 
+> *It is not the task of the University to offer what society asks for, but to give what society needs.* - **Edsger W. Dijkstra** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
