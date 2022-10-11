@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The more varieties of different kinds of notations are still useful — don’t only read the people who code like you.* - **Donald Knuth** 
+> *Programming increases goes as a power of program size.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
