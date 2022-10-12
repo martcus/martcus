@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Programming increases goes as a power of program size.* - **Fred Brooks** 
+> *Simplicity is hard to build, easy to use, and hard to charge for. Complexity is easy to build, hard to use, and easy to charge for.* - **Chris Sacca** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
