@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *A programming language is low level when its programs require attention to the irrelevant.* - **Alan Perlis** 
+> *In my second year in graduate school, I took a computer course and that was like lightening striking.* - **Ted Nelson** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
