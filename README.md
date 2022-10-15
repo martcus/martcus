@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *In my second year in graduate school, I took a computer course and that was like lightening striking.* - **Ted Nelson** 
+> *If Microsoft ever does applications for Linux it means I've won.* - **Linus Torvalds** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
