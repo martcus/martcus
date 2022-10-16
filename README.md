@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *If Microsoft ever does applications for Linux it means I've won.* - **Linus Torvalds** 
+> *The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.* - **Harlan Mills** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
