@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The only way for errors to occur in a program is by being put there by the author. No other mechanisms are known.* - **Harlan Mills** 
+> *Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.* - **Jamie Zawinski** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
