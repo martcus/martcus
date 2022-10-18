@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Some people, when confronted with a problem, think ‘I know, I’ll use regular expressions.’ Now they have two problems.* - **Jamie Zawinski** 
+> *Nine women can't make a baby in one month.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
