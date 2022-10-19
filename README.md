@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Nine women can't make a baby in one month.* - **Fred Brooks** 
+> *The purpose of abstraction is not to be vague, but to create a new semantic level in which one can be absolutely precise.* - **Edsger W. Dijkstra** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
