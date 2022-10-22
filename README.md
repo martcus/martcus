@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The class of problems that are computable by a digital computer apparently includes every problem that is computable by any kind of device.* - **Danny Hillis** 
+> *The real problem with throwaway code comes when it isn't thrown away.* - **Joseph Yoder (computer scientist)** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
