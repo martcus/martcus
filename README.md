@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The real problem with throwaway code comes when it isn't thrown away.* - **Joseph Yoder (computer scientist)** 
+> *I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.* - **Richard Stallman** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
