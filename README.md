@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *I figure that since proprietary software developers use copyright to stop us from sharing, we cooperators can use copyright to give other cooperators an advantage of their own: they can use our code.* - **Richard Stallman** 
+> *All repairs tend to destroy structure, to increase the entropy and disorder of a system.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
