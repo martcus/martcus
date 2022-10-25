@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *All repairs tend to destroy structure, to increase the entropy and disorder of a system.* - **Fred Brooks** 
+> *SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.* - **Philip Greenspun** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
