@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *SQL, Lisp, and Haskell are the only programming languages that I've seen where one spends more time thinking than typing.* - **Philip Greenspun** 
+> *Coding is "90 percent finished" for half of the total coding time. Debugging is "99 percent complete" most of the time.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
