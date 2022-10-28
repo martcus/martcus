@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Controlling complexity is the essence of computer programming.* - **Brian Kernighan** 
+> *The business of software building isn't really high-tech at all. It's most of all a business of talking to each other and writing things down.* - **Tom DeMarco** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
