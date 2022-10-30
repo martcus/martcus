@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *If you want more effective programmers, you will discover that they should not waste their time debugging, they should not introduce the bugs to start with.* - **Edsger W. Dijkstra** 
+> *The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.* - **Robert C. Martin** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
