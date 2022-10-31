@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The ratio of time spent reading versus writing is well over 10 to 1. We are constantly reading old code as part of the effort to write new code.* - **Robert C. Martin** 
+> *Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.* - **Richard Hamming** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
