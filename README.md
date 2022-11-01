@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.* - **Richard Hamming** 
+> *Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.* - **Daniel T. Barry** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
