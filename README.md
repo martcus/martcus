@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Various studies indicate that the optimal team size is between 2 and 5, with 3 being the mode. With more than 5 team members, team management begins to dominate the work.* - **Daniel T. Barry** 
+> *The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.* - **Bill Gates** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
