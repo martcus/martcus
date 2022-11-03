@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The really great programs I've written have all been ones that I have thought about for a huge amount of time before I ever wrote them.* - **Bill Gates** 
+> *My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.* - **Donald Knuth** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
