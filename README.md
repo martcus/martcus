@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *My main conclusion after spending ten years of my life working on the TEX project is that software is hard. It’s harder than anything else I’ve ever had to do.* - **Donald Knuth** 
+> *Mathematicians stand on each others' shoulders and computer scientists stand on each others' toes.* - **Richard Hamming** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
