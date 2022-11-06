@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *There is an amazing commonality in the types of difficulties you run into. In design reviews, I really enjoy being able to provide advice, based on programs that I have done.* - **Bill Gates** 
+> *Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.* - **L. Peter Deutsch** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
