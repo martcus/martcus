@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Every now and then I feel a temptation to design a programming language but then I just lie down until it goes away.* - **L. Peter Deutsch** 
+> *I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.* - **Tim Berners-Lee** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
