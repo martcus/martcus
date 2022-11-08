@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *I invented the Web just because I needed it, really, because it was so frustrating that it didn't exit.* - **Tim Berners-Lee** 
+> *No matter how slick the demo is in rehearsal, when you do it in front of a live audience, the probability of a flawless presentation is inversely proportional to the number of people watching, raised to the power of the amount of money involved.* - **Mark Gibbs** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
