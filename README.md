@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *A computer is a stupid machine with the ability to do incredibly smart things, while computer programmers are smart people with the ability to do incredibly stupid things. They are, in short, a perfect match.* - **David Parnas** 
+> *The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.* - **Donald Knuth** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
