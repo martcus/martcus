@@ -5,7 +5,8 @@
 
 **Quote of the day**
 
-> *The problem is that coding isn’t fun if all you can do is call things out of a library, if you can’t write the library yourself.* - **Donald Knuth** 
+> *I think the best way to make JavaScript better would be to
+make it smaller. If we could just get it down to what it does really well and remove the features that add little or no value, it’s actually a better language.* - **Douglas Crockford** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
