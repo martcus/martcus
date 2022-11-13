@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *I have met bright students in computer science who have never seen the source code of a large program. They may be good at writing small programs, but they can't begin to learn the different skills of writing large ones if they can't see how others have done it.* - **Richard Stallman** 
+> *Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
