@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Chemical engineers learned long ago that a process that works in the laboratory cannot be implemented in a factory in only one step.* - **Fred Brooks** 
+> *Before software can be reusable it first has to be usable.* - **Ralph Johnson (computer scientist)** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
