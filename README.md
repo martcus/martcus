@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Before software can be reusable it first has to be usable.* - **Ralph Johnson (computer scientist)** 
+> *The manager's function is not to make people work, but to make it possible for people to work.* - **Tom DeMarco** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
