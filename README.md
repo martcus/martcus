@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *The manager's function is not to make people work, but to make it possible for people to work.* - **Tom DeMarco** 
+> *Conceptual integrity is the most important consideration in system design. It is better to have a system omit certain anomalous features and improvements, but to reflect one set of design ideas, than to have one that contains many good but independent and uncoordinated ideas.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
