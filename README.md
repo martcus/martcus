@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *First, my wife, my colleagues, and my editors find me to err far more often in optimism than in pessimism. I am, after all, a programmer by background, and optimism is an occupational disease of our craft.* - **Fred Brooks** 
+> *Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.* - **Daniel T. Barry** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
