@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Reliable computations are obtainable from buggy programs, which after all, are the only kind of programs there are.* - **Daniel T. Barry** 
+> *Typing is no substitute for thinking.* - **Richard Hamming** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
