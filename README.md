@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Typing is no substitute for thinking.* - **Richard Hamming** 
+> *I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.* - **Tim Berners-Lee** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
