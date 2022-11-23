@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *I just had to take the hypertext idea and connect it to the TCP and DNS ideas and — ta-da!— the World Wide Web.* - **Tim Berners-Lee** 
+> *No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.* - **Andy Hunt (author)** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
