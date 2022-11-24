@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *No one in the brief history of computing has ever written a piece of perfect software. It's unlikely that you'll be the first.* - **Andy Hunt (author)** 
+> *Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.* - **L. Peter Deutsch** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
