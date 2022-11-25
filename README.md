@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Software is a discipline of detail, and that is a deep, horrendous fundamental problem with software.* - **L. Peter Deutsch** 
+> *There are only two kinds of languages: the ones people complain about and the ones nobody uses.* - **Bjarne Stroustrup** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
