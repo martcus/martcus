@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *There are only two kinds of languages: the ones people complain about and the ones nobody uses.* - **Bjarne Stroustrup** 
+> *Imagination is more important than knowledge.* - **Albert Einstein** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
