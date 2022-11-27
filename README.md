@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Imagination is more important than knowledge.* - **Albert Einstein** 
+> *When in doubt, use brute force.* - **Ken Thompson** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
