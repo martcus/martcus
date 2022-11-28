@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *When in doubt, use brute force.* - **Ken Thompson** 
+> *Adding manpower to a late software project makes it later.* - **Fred Brooks** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
