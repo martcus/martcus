@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *Adding manpower to a late software project makes it later.* - **Fred Brooks** 
+> *The most important single aspect of software development is to be clear about what you are trying to build.* - **Bjarne Stroustrup** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
