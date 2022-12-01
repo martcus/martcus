@@ -5,7 +5,7 @@
 
 **Quote of the day**
 
-> *I can build a reliable system with thousands of bugs, if you let me choose my bugs carefully.* - **David Parnas** 
+> *JavaScript, purely by accident, has become the most popular programming language in the world.* - **Douglas Crockford** 
 
 [![README.md](https://github.com/martcus/martcus/actions/workflows/readme.yml/badge.svg)](https://github.com/martcus/martcus/actions/workflows/readme.yml)
 
